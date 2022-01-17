@@ -1,0 +1,2 @@
+# Delete Folder in DBFS
+%fs rm -r dbfs:/Phase3_extensions/Elasticity_Modelling/Nov21_Refresh/QW_Repo/Output/final_output/rainie/vqw_BREUVAGES_CHAUDS_C_v7
